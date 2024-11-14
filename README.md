@@ -7,5 +7,4 @@ the file will be saved to C:\Users\yourUser\file.txt. replace yourUser
 with your users folder name, or basically just %USERPROFILE%\file.txt if you
 understand that.
 # note
-# i MIGHT change the default downloads directory in the future, might also make it possible to change some download settings, like changing the downloads
-# directory, or making it so that you can choose where a file is saved
+# i MIGHT change the default downloads directory in the future, might also make it possible to change some download settings, like changing the downloads directory, or making it so that you can choose where a file is saved
